@@ -34,4 +34,8 @@ Backend Engineer (Django & DRF)
 
 ## 🌐 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/abdulmalik-adebayo-54a55323a/
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdulmalik-adebayo-54a55323a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</p>
