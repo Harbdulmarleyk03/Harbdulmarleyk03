@@ -2,7 +2,7 @@
 
 Backend Engineer (Django & DRF)
 
-- 🔭 Currently building: Production-ready Calendly clone (backend project)
+- 🔭 Currently building: Production-ready scheduling API (backend project)
 - 🌱 Learning: System Design, Backend Engineering, and DSA
 - 💡 Interested in: Reliable, scalable and maintainable backend systems
 
