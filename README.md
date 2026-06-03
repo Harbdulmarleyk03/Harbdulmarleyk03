@@ -1,6 +1,5 @@
 ## Hi there, I'm Abdulmalik Adebayo 👋
-
-Backend Engineer (Django & DRF)
+## Backend Engineer - Python | Django | DRF
 
 - 🔭 I am currently building a scalable production-ready system (backend)
 - 🌱 I am learning System Design, Backend Engineering, and DSA
