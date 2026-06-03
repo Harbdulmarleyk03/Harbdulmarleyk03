@@ -2,8 +2,8 @@
 
 Backend Engineer (Django & DRF)
 
-- 🔭 Currently building: Production-ready scheduling API (backend project)
-- 🌱 Learning: System Design, Backend Engineering, and DSA
+- 🔭 I am currently building a scalable production-ready system (backend)
+- 🌱 I am learning System Design, Backend Engineering, and DSA
 - 💡 Interested in: Reliable, scalable and maintainable backend systems
 
 ---
